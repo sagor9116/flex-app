@@ -4,6 +4,7 @@
 
 
 
+
 /* Navbar styles */
 
 .main__nav {
@@ -11,7 +12,7 @@
 }
 
 .main__nav__container {
-    @apply container px-4 mx-auto flex flex-wrap items-center justify-between lg:pl-32 lg:pr-32
+    @apply container mx-auto flex flex-wrap items-center justify-between
 }
 
 .nav__lists {
